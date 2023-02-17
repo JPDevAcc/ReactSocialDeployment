@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ReactSocialDeployment/static/css/main.b441d9cd.css",
-    "main.js": "/ReactSocialDeployment/static/js/main.ad803103.js",
+    "main.js": "/ReactSocialDeployment/static/js/main.5b7e11a3.js",
     "index.html": "/ReactSocialDeployment/index.html",
     "main.b441d9cd.css.map": "/ReactSocialDeployment/static/css/main.b441d9cd.css.map",
-    "main.ad803103.js.map": "/ReactSocialDeployment/static/js/main.ad803103.js.map"
+    "main.5b7e11a3.js.map": "/ReactSocialDeployment/static/js/main.5b7e11a3.js.map"
   },
   "entrypoints": [
     "static/css/main.b441d9cd.css",
-    "static/js/main.ad803103.js"
+    "static/js/main.5b7e11a3.js"
   ]
 }
